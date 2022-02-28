@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions of the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled: to the Right Honourable the Lords and Commons in Parliament assembled: which petition was presented to both houses, July 18. 1648. With the answer of the Lords.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95468</idno>
+            <idno type="STC">Wing T3513</idno>
+            <idno type="STC">Thomason E453_6</idno>
+            <idno type="STC">ESTC R203855</idno>
+            <idno type="EEBO-CITATION">99863655</idno>
+            <idno type="PROQUEST">99863655</idno>
+            <idno type="VID">115865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions of the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled: to the Right Honourable the Lords and Commons in Parliament assembled: which petition was presented to both houses, July 18. 1648. With the answer of the Lords.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, printer to the Honourable city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lords' reply is dated 18 July 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115865:1" rendition="simple:additions"/>
+            <p>TWO PETITIONS OF THE <hi>Lord Major, Aldermen, and Commons</hi> of the City of <hi>LONDON,</hi> IN Common-Councell ASSEMBLED: To the Right Honourable THE LORDS and COMMONS in Parliament Aſſembled: <hi>Which</hi> Petition <hi>was Preſented to both Houſes, July</hi> 18. 1648.</p>
+            <p>With the Anſwer of the LORDS.</p>
+            <p>Printed by RICHARD COTES, Printer to the Honourable city of <hi>London,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:115865:2"/>
+            <head>
+               <hi>TO THE RIGHT HONORABLE The Commons IN High Court of Parliament aſſembled:</hi> The humble Petition of the Lord Major, Alder<g ref="char:EOLhyphen"/>men, and Commons of the City of London, in Common-councell aſſembled.</head>
+            <opener>SHEVVETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners do thankfully acknowledge the favour of this honorable Houſe, in that (before they gave anſwer to the deſires of the Town of <hi>Newcaſtle</hi> upon <hi>Tyne,</hi> for laying an impoſition upon Coles) they were pleaſed to communicate the ſame to the
+<pb n="2" facs="tcp:115865:3"/> Petitioners, who taking into ſerious conſide<g ref="char:EOLhyphen"/>ration the great increaſe and miſerable condi<g ref="char:EOLhyphen"/>tion of the Poor of this City, occaſioned by the extreme decay of Trade both by Sea and Land, want of employment, ſcarcity and dearneſs of proviſion, cannot but be very ſenſible of the ſad effect (they fear) will follow, if any ſuch Tax ſhould be laid upon Coles, which muſt of neceſſity lie moſt heavie upon the poorer ſort; and will alſo be an occaſion of diſcontent to Seamen, and diſ<g ref="char:EOLhyphen"/>couragement of Merchants trading that way. And although your Petitioners cannot finde any expedient for the ſupply of the Gariſon in <hi>Newcaſtle,</hi> as is propounded; yet they doe offer to the Grave conſideration of this hono<g ref="char:EOLhyphen"/>rable Houſe, That if the Profits of all places and emploiments enjoyed contrary to the Self-denying Ordinance of the Fourth of <hi>Aprill,</hi> 1645. And the ſeverall Votes of the Tenth of <hi>June,</hi> 1647. and likewiſe the profits of the ſeverall places belonging to the Cuſtomes, Exciſe, Poſtmaſters, Committee-men, Offices ſequeſtred, and ſuch like, may be diſpoſed of for the Publique occaſions of the
+<pb n="3" facs="tcp:115865:3"/> Kingdom, and not converted to private uſes, (reaſonable Salaries for ſuch and ſo many as ſhall be neceſſarily employed therein excep<g ref="char:EOLhyphen"/>ted) the ſame might advance a conſiderable ſumm for that or other Publick charge, during the time of the miſerable diſtractions of this Kingdom.</p>
+            <p>Your Petitioners do therefore humbly pray,</p>
+            <p>That no Tax or new Impoſition be laid upon Coles; And that the aforeſaid repreſen<g ref="char:EOLhyphen"/>tations may be effectually taken into the Grave conſideration of this honourable Houſe;</p>
+            <closer>
+               <signed>And they ſhall ever pray, &amp;c. <hi>Michel.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:115865:4"/>
+            <head>
+               <hi>To the Right Honourable the</hi> Lords <hi>in high Court of Parliament aſſembled:</hi> The humble Petition of the Lord Major, Aldermen and Commons of the City of <hi>LONDON</hi> in Common-Councell aſſembled:</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Petitioners calling to minde the happy ſucceſſes and great benefits, which not onely the Parliament and City, but alſo the Kingdom re<g ref="char:EOLhyphen"/>ceived, when the Forces within the late Lines of Commu<g ref="char:EOLhyphen"/>nication were united to the City, under the command of one <hi>Militia;</hi> And the inconveniences that have happened ſince they were diſunited, their ſtrength thereby being much abated, and they made more unſerviceable to the Parliament and City.</p>
+            <p>And your Petitioners being very ſenſible thereof, and of the great benefit that may be expected (by the bleſſing of God) by their re-uniting, having received ſeverall Petitions from divers wel-affected perſons Inhabitants of the city of <hi>Weſtminſter,</hi> Hamblets of the Tower, and Bur<g ref="char:EOLhyphen"/>rough of <hi>Southwark,</hi> declaring their deſires thereof; And upon conference with them, (and finding them not willing to be a Sub-committee as formerly) in our deſire to fur<g ref="char:EOLhyphen"/>ther ſo good a work, tending ſo much to the enabling of us to be ſerviceable to the Parliament, City and Kingdom, your Petitioners did condiſcend, That the ſaid adjacent parts ſhould have five for every Diviſion, to be joyned to the preſent <hi>Militia</hi> of <hi>London,</hi> and to make one entire <hi>Militia:</hi> Provided, That they ſhould be nominated by
+<pb n="5" facs="tcp:115865:4"/> the Common-councell, and preſented to the honourable Houſes of Parliament for their approbation and allow<g ref="char:EOLhyphen"/>ance; And having received ſeverall Votes from the honourable Houſes of Parliament for their re-uniting:</p>
+            <p>
+               <hi>They therefore humbly pray,</hi>
+               <lb/> That an Ordinance of Parliament may be ſpeedily paſſed, for the adding unto the preſent <hi>Militia</hi> of <hi>London,</hi> the Fifteen perſons nominated by the Common-councell, and by them humbly preſented and ſubmitted to the honourable Houſes of Parlia<g ref="char:EOLhyphen"/>ment for their confirmation.</p>
+            <closer>
+               <signed>And they ſhall ever pray, &amp;c. <hi>Michel.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="comment_on_disposition_of_petition">
+            <pb n="6" facs="tcp:115865:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 18 Julii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>UPON reading of the Petition of the Lord Major, Aldermen and Commons of the City of <hi>London</hi> in Common-councell aſſembled; It is Ordered by the Lords in Parliament, That theſe Lords fol<g ref="char:EOLhyphen"/>lowing ſhall be a Committee to draw up ſuch an Ordinance as is deſired in the ſaid Petition, and in purſuance of the Vote of this Houſe 6. <hi>July,</hi> 1648. and that the names of ſuch as they mention in their Petition be preſented to the ſaid Committee.</p>
+            <list>
+               <item>E. Northumberland</item>
+               <item>E. Rutland</item>
+               <item>E. Lincolne</item>
+               <item>E. Suffolke</item>
+               <item>E. Middleſex</item>
+               <item>L. North</item>
+               <item>L. Hunſdon.</item>
+            </list>
+            <p>Their Lordſhips, or any Two, to meet on Thurſday next at Nine in the Lord Keepers Lodgings, and to adjourn themſelves as they pleaſe.</p>
+            <closer>
+               <signed>Io. Brown, Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
